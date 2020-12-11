@@ -11,9 +11,10 @@ html {
 }
 
 h1 {
-  font-size:59px;
+  font-size: 3rem;
   color: #e2dbdb;
-  text-align: center;
+  
+  
 }
 
 .btn {
@@ -45,5 +46,5 @@ hr {
 }
 
 .buffer {
-  height: 12rem;
+  height: 13rem;
 }
